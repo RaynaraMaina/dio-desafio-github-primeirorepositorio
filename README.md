@@ -2,4 +2,4 @@
 Desafio de Projeto sobre GIT/GITHUB
 
 ## Links Úteis
-[sintaxe básica markdomn](sintaxe básica markdomn)
+[sintaxe básica markdomn](https://www.markdownguide.org/basic-syntax/)
