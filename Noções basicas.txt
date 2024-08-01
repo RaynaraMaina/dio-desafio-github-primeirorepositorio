@@ -1,0 +1,22 @@
+    Introdução a GIT/GITHUB
+
+ - COMANDOS:
+  -DIR
+ -CLS
+ -CD .. E CD/
+ - RMDIR 
+ -ls
+- git status
+
+
+ * chave SSH
+ * Objetos fundamentais
+ * É um sistema distribuido!
+ * arquivos markdown
+
+  
+
+
+   
+
+ 
